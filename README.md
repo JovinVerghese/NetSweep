@@ -26,7 +26,7 @@ Make sure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/netsweep.git
+git clone https://github.com/JovinVerghese/NetSweep.git
 cd netsweep
 
 # Make the script executable
