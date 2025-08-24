@@ -34,7 +34,7 @@ git clone https://github.com/JovinVerghese/NetSweep.git
 cd NetSweep
 
 # Make the script executable
-chmod +x netsweep.sh
+chmod u+x NetSweep.sh
 
 # Run the tool
 ./NetSweep.sh
